@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+.env
+# Dados
+data/
+# Modelos
+models/
+# Jupyter
+.ipynb_checkpoints/
